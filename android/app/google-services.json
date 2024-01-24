@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393910161070",
+    "project_id": "smarketrepo",
+    "storage_bucket": "smarketrepo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393910161070:android:2c902087b37dfbfde0673f",
+        "android_client_info": {
+          "package_name": "com.example.smarket_repo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393910161070-peficuvsacfk93t5se1h16hh8a22mmjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjmG30eHVYiCk8NIQ81SmVjKLf7ziCuC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393910161070-peficuvsacfk93t5se1h16hh8a22mmjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
