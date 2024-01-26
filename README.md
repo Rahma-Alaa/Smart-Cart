@@ -14,9 +14,7 @@
 
 ## ScreenShots
 
-| Splash Screen |
-|---|---|
-|<img src="https://user-images.githubusercontent.com/47388207/210511777-7dc683eb-2bd0-49d3-bab2-4370a539d069.jpg" height="300" />|<img src="https://user-images.githubusercontent.com/47388207/210511799-de13c9f7-cd8d-4f89-a8e4-09d3c909d1b7.jpg" height="300" />|
+
 | Home | Drawer |
 |---|---|
 |<img src="https://user-images.githubusercontent.com/47388207/210511777-7dc683eb-2bd0-49d3-bab2-4370a539d069.jpg" height="300" />|<img src="https://user-images.githubusercontent.com/47388207/210511799-de13c9f7-cd8d-4f89-a8e4-09d3c909d1b7.jpg" height="300" />|
