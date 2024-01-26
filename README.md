@@ -25,7 +25,7 @@
 | Support | Signout |
 |<img src="https://user-images.githubusercontent.com/47388207/210512110-b9f6816c-5c00-44aa-8246-ded9ae6d7a6d.jpg" height="300" />|<img src="https://user-images.githubusercontent.com/47388207/210512162-1a87696c-401d-4b3c-bd4d-865d116e62af.jpg" height="300" />|
 | Intro1 | Intro2 |
-|<img src="file:///D:/Graduation%20Project/Screens/Intro%201.png" height="300" />|<img src="https://user-images.githubusercontent.com/47388207/210512162-1a87696c-401d-4b3c-bd4d-865d116e62af.jpg" height="300" />|
+|<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/b2bf308c-26cc-4517-9540-b0064eae6d7d.jpg" height="300" />|<img src="https://user-images.githubusercontent.com/47388207/210512162-1a87696c-401d-4b3c-bd4d-865d116e62af.jpg" height="300" />|
 
 
 
