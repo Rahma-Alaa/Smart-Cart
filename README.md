@@ -15,9 +15,9 @@
 ## ScreenShots
 
 
-| Home | Drawer |
+| Splash_Screen | Intro_1 |
 |---|---|
-|<img src="https://user-images.githubusercontent.com/47388207/210511777-7dc683eb-2bd0-49d3-bab2-4370a539d069.jpg" height="300" />|<img src="https://user-images.githubusercontent.com/47388207/210511799-de13c9f7-cd8d-4f89-a8e4-09d3c909d1b7.jpg" height="300" />|
+|<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/76aa29ed-2b15-4dc6-b4c2-db5f473e22d2.jpg" height="300" />|<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/b2bf308c-26cc-4517-9540-b0064eae6d7d.jpg" height="300" />|
 | Invoices | Empty_Invoices |
 |<img src="https://user-images.githubusercontent.com/47388207/210512282-a6a94589-1064-487e-aa84-f829835c92ec.jpg" height="300" />|<img src="https://user-images.githubusercontent.com/47388207/210512470-adcef090-8b12-47d4-9d20-6f09eb0c9f68.jpg" height="300" />|
 | Billing | Save_Money |
@@ -32,6 +32,8 @@
 |<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/65e86c76-48e1-46b2-985d-0d94d0b425d6.jpg" height="300" />|<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/ee2fcfa2-e645-4a80-a18c-548ba06f3da0.jpg" height="300" />|
 | Reset_Password | Account_Setting|
 |<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/033558cf-5ff1-42a8-a463-55138e0b80f1.jpg" height="300" />|<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/5a137874-4677-4777-9014-fd9c8ff8c7a8.jpg" height="300" />|
+| Home | Drawer |
+|<img src="https://user-images.githubusercontent.com/47388207/210511777-7dc683eb-2bd0-49d3-bab2-4370a539d069.jpg" height="300" />|<img src="https://user-images.githubusercontent.com/47388207/210511799-de13c9f7-cd8d-4f89-a8e4-09d3c909d1b7.jpg" height="300" />|
 
 
 
