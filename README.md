@@ -1,4 +1,4 @@
-# Smarket App
+# Smart Cart App
 
 ## The Purpose
 
@@ -38,4 +38,9 @@
 
 
 [mobileApp.pptx](https://github.com/Rahma-Alaa/Smart-Cart/files/14068682/mobileApp.pptx)
+
+
+## Figma
+
+https://www.figma.com/file/NrgiiziZPA9eimSF1gch7B/Smart-Cart-App?type=design&node-id=214-422&mode=design&t=fyZ5VodKRjYzFr0s-0
 
