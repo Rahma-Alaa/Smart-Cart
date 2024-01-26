@@ -28,6 +28,10 @@
 |<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/76aa29ed-2b15-4dc6-b4c2-db5f473e22d2.jpg" height="300" />|<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/b2bf308c-26cc-4517-9540-b0064eae6d7d.jpg" height="300" />|
 | Intro2 | Intro3 |
 |<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/2c78879d-d8f2-4004-8138-e7679f9ce522.jpg" height="300" />|<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/0cb4e70b-4d95-4c6f-835d-a07f207c64b8.jpg" height="300" />|
+| Create_Account | Sign_In|
+|<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/65e86c76-48e1-46b2-985d-0d94d0b425d6.jpg" height="300" />|<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/ee2fcfa2-e645-4a80-a18c-548ba06f3da0.jpg" height="300" />|
+| Reset_Password | Account_Setting|
+|<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/033558cf-5ff1-42a8-a463-55138e0b80f1.jpg" height="300" />|<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/5a137874-4677-4777-9014-fd9c8ff8c7a8.jpg" height="300" />|
 
 
 
