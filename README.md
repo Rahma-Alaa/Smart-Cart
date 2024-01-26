@@ -24,5 +24,8 @@
 |<img src="https://user-images.githubusercontent.com/47388207/210512215-fea93698-767e-48b5-9e65-2588fa05ae75.jpg" height="300" />|<img src="https://user-images.githubusercontent.com/47388207/210512237-407ed7cc-4297-48d2-b920-153623d184f6.jpg" height="300" />|
 | Support | Signout |
 |<img src="https://user-images.githubusercontent.com/47388207/210512110-b9f6816c-5c00-44aa-8246-ded9ae6d7a6d.jpg" height="300" />|<img src="https://user-images.githubusercontent.com/47388207/210512162-1a87696c-401d-4b3c-bd4d-865d116e62af.jpg" height="300" />|
+| Intro1 | Intro2 |
+|<img src="file:///D:/Graduation%20Project/Screens/Intro%201.png" height="300" />|<img src="https://user-images.githubusercontent.com/47388207/210512162-1a87696c-401d-4b3c-bd4d-865d116e62af.jpg" height="300" />|
+
 
 
