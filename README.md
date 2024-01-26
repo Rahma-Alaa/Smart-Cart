@@ -23,7 +23,7 @@
 | Create_Account | Sign_In|
 |<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/65e86c76-48e1-46b2-985d-0d94d0b425d6.jpg" height="300" />|<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/ee2fcfa2-e645-4a80-a18c-548ba06f3da0.jpg" height="300" />|
 | Reset_Password | Account_Setting|
-|<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/033558cf-5ff1-42a8-a463-55138e0b80f1.jpg" height="300" />|<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/5a137874-4677-4777-9014-fd9c8ff8c7a8.jpg" height="300" />|
+|<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/033558cf-5ff1-42a8-a463-55138e0b80f1.jpg" height="300" />|<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/f66a53bd-f500-4843-8a27-ab5418eb2588.jpg" height="300" />|
 | Home | Drawer |
 |<img src="https://user-images.githubusercontent.com/47388207/210511777-7dc683eb-2bd0-49d3-bab2-4370a539d069.jpg" height="300" />|<img src="https://github.com/Rahma-Alaa/Smart-Cart/assets/141377975/77004521-52ec-4e94-a88e-30e1561f7f1f.jpg" height="300" />|
 | Invoices | Empty_Invoices |
