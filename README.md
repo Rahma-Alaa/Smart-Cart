@@ -40,6 +40,8 @@
 
 ## Application UI Design
 
+https://drive.google.com/file/d/1cqfB6kqFAkML96v9lq57_MMFGCTWhY4-/view?usp=drivesdk
+
 https://drive.google.com/file/d/1cnnNHCOnh88Vr4zd7PsAm8Vsrj0_8eB9/view?usp=drivesdk
 
 
