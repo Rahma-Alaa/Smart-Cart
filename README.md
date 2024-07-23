@@ -40,7 +40,8 @@
 
 ## Application UI Design
 
-For detailed information about the application UI design, please refer to the [Application UI Design PDF](./Application%20UI%20Design.pdf).
+https://drive.google.com/file/d/1cnnNHCOnh88Vr4zd7PsAm8Vsrj0_8eB9/view?usp=drivesdk
+
 
 ## Figma
 
