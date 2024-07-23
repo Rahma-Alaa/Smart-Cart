@@ -35,10 +35,12 @@
 
 
 ## Presentation
-
-
 [mobileApp.pptx](https://github.com/Rahma-Alaa/Smart-Cart/files/14068682/mobileApp.pptx)
 
+
+## Application UI Design
+
+For detailed information about the application UI design, please refer to the [Application UI Design PDF](./Application%20UI%20Design.pdf).
 
 ## Figma
 
