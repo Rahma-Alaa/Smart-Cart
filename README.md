@@ -47,5 +47,5 @@ https://drive.google.com/file/d/1cnnNHCOnh88Vr4zd7PsAm8Vsrj0_8eB9/view?usp=drive
 
 ## Figma
 
-https://www.figma.com/file/NrgiiziZPA9eimSF1gch7B/Smart-Cart-App?type=design&node-id=214-422&mode=design&t=fyZ5VodKRjYzFr0s-0
+https://www.figma.com/design/dlBzwnaXrgUGQ5QPF8RId2/Smart-Cart-App?node-id=0-1&node-type=canvas&t=kk1bBqCNEJz81xzu-0
 
